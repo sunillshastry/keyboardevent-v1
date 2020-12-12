@@ -1,9 +1,18 @@
 # Keyboard Event Handler
+
 ## by Sunil Shastry.
-___
+
+---
+
 _Keyboard Event Handler lets you access the essentials for the JavaScript browser keyboard events. (key, keyCode & code)_
-___
+
+---
+
+![Keyboard Event Handler](./assets/sxa.png)
+![Keyboard Event Handler](./assets/sxb.png)
+
 ### How to use?
+
 1. Access the website by visiting [Keyboard Handler](https://keyboardevent.netlify.app/ "Keynoard Event Handler").
 2. Please make sure you are using the website on a Mac or PC. The website cannot be utilized fully on a mobile device or any device without a keyboard.
 3. On a PC or Mac, please hit any keyboard button and the website will do the job in fetching the details you need.
@@ -11,11 +20,13 @@ ___
 5. As you click on a card, your keyboard event value will automatically be copied to the clipboard.
 6. Do not click on the card until you've already hit a keyboard button, this will only result in a warning for you.
 
-> __Please access the website on a PC/Mac__. Although fully responsive in nature, the website does not fully function without a keyboard.
+> **Please access the website on a PC/Mac**. Although fully responsive in nature, the website does not fully function without a keyboard.
 
-___
+---
+
 ### Want to know more about me?
-*If you wish to know more about me and the projects I've developed and designed, or simply contact me for any queries:*
+
+_If you wish to know more about me and the projects I've developed and designed, or simply contact me for any queries:_
 
 Visit my [Portfolio Website](https://www.sunilshastry.com "Sunil Shastry").
 
